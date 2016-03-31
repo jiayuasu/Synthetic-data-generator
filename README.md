@@ -2,7 +2,7 @@
 Synthetic data generator for generating data follows normal distribution
 
 ##Introduction
-I was struggling for getting large scale synthetic data to do my experiments. I know there are people also face this issue. But they may not knoq how easy to write their own generator. This is a simple synthetic data generator. This data generator is able to generate random data follows uniform distribution and skewed data follows normal distribution.
+I was struggling for getting large scale synthetic data to do my experiments. I know there are people also face this issue. But they may not know how easy to write their own generator. This is a simple synthetic data generator. This data generator is able to generate random data follows uniform distribution and skewed data follows normal distribution.
 
 ##How to get started
 
