@@ -1,14 +1,14 @@
 # Synthetic-data-generator
-Synthetic data generator for generating data follows normal distribution
+Synthetic data generator for generating data follows uniform/normal/exponential distribution
 
-##Introduction
-I was struggling for getting large scale synthetic data to do my experiments. I know there are people also face this issue. But they may not know how easy to write their own generator. This is a simple synthetic data generator. This data generator is able to generate random data follows uniform distribution and skewed data follows normal distribution.
+## Introduction
+I was struggling for getting large scale synthetic data to do my experiments. I know there are people also face this issue. But they may not know how easy to write their own generator. This is a simple synthetic data generator. This data generator is able to generate random data follows uniform distribution and skewed data follows normal/exponential distribution.
 
-##How to get started
+## How to get started
 
 1. I assume you already get Python installed on your machine. If not, it is easy to get one.
-2. Download DatabaseGnerator.py.
-3. Run DatabaseGnerator.py:
+2. Download generator.py.
+3. Run generator.py:
   ```
   python3 generator.py
   ```
